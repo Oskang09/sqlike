@@ -1,7 +1,7 @@
 package jsonb
 
 import (
-	"github.com/RevenueMonster/sqlike/util"
+	"github.com/Oskang09/sqlike/util"
 )
 
 // ReadRawString :

@@ -1,8 +1,8 @@
 package mysql
 
 import (
-	"github.com/RevenueMonster/sqlike/sqlike/options"
-	"github.com/RevenueMonster/sqlike/util"
+	"github.com/Oskang09/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/util"
 )
 
 // Connect :

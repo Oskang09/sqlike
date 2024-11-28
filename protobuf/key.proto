@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/RevenueMonster/sqlike/protobuf";
+option go_package = "github.com/Oskang09/sqlike/protobuf";
 
 package sqlike.protobuf;
 

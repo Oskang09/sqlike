@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RevenueMonster/sqlike/types"
+	"github.com/Oskang09/sqlike/types"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/text/currency"

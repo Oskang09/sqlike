@@ -3,8 +3,8 @@ package actions
 import (
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/sql/expr"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 // SelectStatement :

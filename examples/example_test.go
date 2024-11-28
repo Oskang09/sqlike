@@ -10,12 +10,12 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	mysql "github.com/go-sql-driver/mysql"
 
-	"github.com/RevenueMonster/sqlike/plugin/opentracing"
-	"github.com/RevenueMonster/sqlike/sql/instrumented"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/plugin/opentracing"
+	"github.com/Oskang09/sqlike/sql/instrumented"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/options"
 
-	"github.com/RevenueMonster/sqlike/sqlike"
+	"github.com/Oskang09/sqlike/sqlike"
 	"github.com/stretchr/testify/require"
 )
 

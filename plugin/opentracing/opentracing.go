@@ -3,7 +3,7 @@ package opentracing
 import (
 	"context"
 
-	"github.com/RevenueMonster/sqlike/sql/instrumented"
+	"github.com/Oskang09/sqlike/sql/instrumented"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"
 )

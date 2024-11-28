@@ -3,7 +3,7 @@ package actions
 import (
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sql/expr"
 )
 
 // SelectOneStatement :

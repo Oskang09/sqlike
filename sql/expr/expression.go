@@ -3,8 +3,8 @@ package expr
 import (
 	"reflect"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 // Equal :

@@ -7,8 +7,8 @@ import (
 
 	"errors"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sql/codec"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sql/codec"
 )
 
 // Resulter :

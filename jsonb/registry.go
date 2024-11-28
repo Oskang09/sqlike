@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/RevenueMonster/sqlike/reflext"
+	"github.com/Oskang09/sqlike/reflext"
 	"golang.org/x/text/currency"
 	"golang.org/x/text/language"
 )

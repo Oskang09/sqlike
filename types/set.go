@@ -4,10 +4,10 @@ import (
 	"database/sql/driver"
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	sqldriver "github.com/RevenueMonster/sqlike/sql/driver"
-	"github.com/RevenueMonster/sqlike/sqlike/columns"
-	"github.com/RevenueMonster/sqlike/util"
+	"github.com/Oskang09/sqlike/reflext"
+	sqldriver "github.com/Oskang09/sqlike/sql/driver"
+	"github.com/Oskang09/sqlike/sqlike/columns"
+	"github.com/Oskang09/sqlike/util"
 )
 
 // Set : sql data type of `SET`

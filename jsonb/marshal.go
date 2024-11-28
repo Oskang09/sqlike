@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/RevenueMonster/sqlike/reflext"
+	"github.com/Oskang09/sqlike/reflext"
 )
 
 // Marshaler :

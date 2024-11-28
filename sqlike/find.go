@@ -4,15 +4,15 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sql/codec"
-	sqldialect "github.com/RevenueMonster/sqlike/sql/dialect"
-	sqldriver "github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/actions"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sql/codec"
+	sqldialect "github.com/Oskang09/sqlike/sql/dialect"
+	sqldriver "github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/actions"
+	"github.com/Oskang09/sqlike/sqlike/logs"
+	"github.com/Oskang09/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 // SingleResult : single result is an interface implementing apis as similar as driver.Result

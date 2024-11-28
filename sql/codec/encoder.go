@@ -13,12 +13,12 @@ import (
 	"time"
 
 	"cloud.google.com/go/datastore"
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/spatial"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/spatial"
 	"github.com/paulmach/orb"
 	"github.com/paulmach/orb/encoding/wkt"
 
-	"github.com/RevenueMonster/sqlike/jsonb"
+	"github.com/Oskang09/sqlike/jsonb"
 )
 
 // DefaultEncoders :

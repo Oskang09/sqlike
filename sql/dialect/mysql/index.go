@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strconv"
 
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
 )
 
 // HasIndexByName :

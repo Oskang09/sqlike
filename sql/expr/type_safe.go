@@ -3,7 +3,7 @@ package expr
 import (
 	"reflect"
 
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 // String :

@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/RevenueMonster/sqlike/sql"
-	"github.com/RevenueMonster/sqlike/sql/expr"
-	"github.com/RevenueMonster/sqlike/sqlike"
+	"github.com/Oskang09/sqlike/sql"
+	"github.com/Oskang09/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sqlike"
 	"github.com/stretchr/testify/require"
 )
 

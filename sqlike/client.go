@@ -6,14 +6,14 @@ import (
 	"strings"
 
 	semver "github.com/Masterminds/semver/v3"
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sql/charset"
-	"github.com/RevenueMonster/sqlike/sql/codec"
-	"github.com/RevenueMonster/sqlike/sql/dialect"
-	"github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sql/charset"
+	"github.com/Oskang09/sqlike/sql/codec"
+	"github.com/Oskang09/sqlike/sql/dialect"
+	"github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/logs"
+	"github.com/Oskang09/sqlike/sqlike/options"
 	"github.com/bxcodec/dbresolver"
 )
 

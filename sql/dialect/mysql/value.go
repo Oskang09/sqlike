@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/RevenueMonster/sqlike/util"
+	"github.com/Oskang09/sqlike/util"
 )
 
 // Format :

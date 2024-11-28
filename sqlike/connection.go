@@ -7,10 +7,10 @@ import (
 	"errors"
 	"log"
 
-	"github.com/RevenueMonster/sqlike/sql/dialect"
-	sqldialect "github.com/RevenueMonster/sqlike/sql/dialect"
-	"github.com/RevenueMonster/sqlike/sql/dialect/mysql"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/sql/dialect"
+	sqldialect "github.com/Oskang09/sqlike/sql/dialect"
+	"github.com/Oskang09/sqlike/sql/dialect/mysql"
+	"github.com/Oskang09/sqlike/sqlike/options"
 )
 
 func init() {

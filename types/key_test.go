@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/RevenueMonster/sqlike/jsonb"
-	"github.com/RevenueMonster/sqlike/reflext"
+	"github.com/Oskang09/sqlike/jsonb"
+	"github.com/Oskang09/sqlike/reflext"
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/bson/bsontype"
 )

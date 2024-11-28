@@ -3,12 +3,12 @@ package sqlike
 import (
 	"context"
 
-	sqldialect "github.com/RevenueMonster/sqlike/sql/dialect"
-	sqldriver "github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/actions"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	sqldialect "github.com/Oskang09/sqlike/sql/dialect"
+	sqldriver "github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/actions"
+	"github.com/Oskang09/sqlike/sqlike/logs"
+	"github.com/Oskang09/sqlike/sqlike/options"
 )
 
 // UpdateOne :

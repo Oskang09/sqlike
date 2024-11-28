@@ -1,6 +1,6 @@
 package options
 
-import "github.com/RevenueMonster/sqlike/sql/util"
+import "github.com/Oskang09/sqlike/sql/util"
 
 type insertMode int
 

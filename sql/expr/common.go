@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 // Raw :

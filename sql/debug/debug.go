@@ -1,9 +1,9 @@
 package debug
 
 import (
-	"github.com/RevenueMonster/sqlike/sql/dialect"
-	"github.com/RevenueMonster/sqlike/sql/dialect/mysql"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sql/dialect"
+	"github.com/Oskang09/sqlike/sql/dialect/mysql"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
 )
 
 // ToSQL :

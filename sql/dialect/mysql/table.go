@@ -4,12 +4,12 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sql/util"
-	"github.com/RevenueMonster/sqlike/sqlike/columns"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sql/util"
+	"github.com/Oskang09/sqlike/sqlike/columns"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
 )
 
 // HasPrimaryKey :

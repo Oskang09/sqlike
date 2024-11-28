@@ -16,7 +16,7 @@ import (
 
 	"cloud.google.com/go/civil"
 	"cloud.google.com/go/datastore"
-	"github.com/RevenueMonster/sqlike/jsonb"
+	"github.com/Oskang09/sqlike/jsonb"
 	"github.com/paulmach/orb"
 	"github.com/paulmach/orb/encoding/wkb"
 	"golang.org/x/text/currency"

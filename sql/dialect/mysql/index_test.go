@@ -3,8 +3,8 @@ package mysql
 import (
 	"testing"
 
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
 	"github.com/stretchr/testify/require"
 )
 

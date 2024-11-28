@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/RevenueMonster/sqlike/sql/expr"
-	"github.com/RevenueMonster/sqlike/sqlike/actions"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sqlike/actions"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 	"github.com/stretchr/testify/require"
 )
 

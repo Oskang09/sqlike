@@ -1,7 +1,7 @@
 package logs
 
 import (
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
 )
 
 // Logger :

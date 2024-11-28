@@ -4,11 +4,11 @@ import (
 	"context"
 
 	semver "github.com/Masterminds/semver/v3"
-	sqldialect "github.com/RevenueMonster/sqlike/sql/dialect"
-	sqldriver "github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
+	sqldialect "github.com/Oskang09/sqlike/sql/dialect"
+	sqldriver "github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
+	"github.com/Oskang09/sqlike/sqlike/logs"
 )
 
 var mysql8 = semver.MustParse("8.0.0")

@@ -6,7 +6,7 @@ import (
 
 	"reflect"
 
-	"github.com/RevenueMonster/sqlike/reflext"
+	"github.com/Oskang09/sqlike/reflext"
 )
 
 // BuildStatementFunc :

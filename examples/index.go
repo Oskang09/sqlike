@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/RevenueMonster/sqlike/sqlike"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
+	"github.com/Oskang09/sqlike/sqlike"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package sqlike
 import (
 	"context"
 
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 const contextResolutionKey = "_sqlike_context_query"

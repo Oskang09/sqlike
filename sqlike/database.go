@@ -11,13 +11,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/RevenueMonster/sqlike/sql/codec"
-	"github.com/RevenueMonster/sqlike/sql/dialect"
-	"github.com/RevenueMonster/sqlike/sql/driver"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/indexes"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/sql/codec"
+	"github.com/Oskang09/sqlike/sql/dialect"
+	"github.com/Oskang09/sqlike/sql/driver"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/indexes"
+	"github.com/Oskang09/sqlike/sqlike/logs"
+	"github.com/Oskang09/sqlike/sqlike/options"
 	"gopkg.in/yaml.v3"
 )
 

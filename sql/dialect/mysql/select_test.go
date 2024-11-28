@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RevenueMonster/sqlike/sql"
-	"github.com/RevenueMonster/sqlike/sql/expr"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/actions"
+	"github.com/Oskang09/sqlike/sql"
+	"github.com/Oskang09/sqlike/sql/expr"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/actions"
 	"github.com/stretchr/testify/require"
 )
 

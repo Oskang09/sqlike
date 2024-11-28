@@ -1,6 +1,6 @@
 package expr
 
-import "github.com/RevenueMonster/sqlike/sqlike/primitive"
+import "github.com/Oskang09/sqlike/sqlike/primitive"
 
 // Collate :
 func Collate(collate string, col interface{}, charset ...string) (o primitive.Encoding) {

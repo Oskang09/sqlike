@@ -1,7 +1,7 @@
 package actions
 
 import (
-	"github.com/RevenueMonster/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sql/expr"
 )
 
 // DeleteOneStatement :

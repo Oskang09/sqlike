@@ -1,14 +1,15 @@
 package expr
 
 import (
-	"github.com/RevenueMonster/sqlike/spatial"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/spatial"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 	"github.com/paulmach/orb"
 	"github.com/paulmach/orb/encoding/wkt"
 )
 
-//golint:ignore
 // ST_GeomFromText :
+//
+//golint:ignore
 func ST_GeomFromText(g interface{}, srid ...uint) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeGeomFromText
 	switch vi := g.(type) {
@@ -33,8 +34,9 @@ func ST_GeomFromText(g interface{}, srid ...uint) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // ST_AsText :
+//
+//golint:ignore
 func ST_AsText(g interface{}) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeAsText
 	switch vi := g.(type) {
@@ -54,8 +56,9 @@ func ST_AsText(g interface{}) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // ST_IsValid :
+//
+//golint:ignore
 func ST_IsValid(g interface{}) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeIsValid
 	switch vi := g.(type) {
@@ -75,9 +78,10 @@ func ST_IsValid(g interface{}) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // column, value, ST_GeomFromText(column), ST_GeomFromText(value)
 // ST_Distance :
+//
+//golint:ignore
 func ST_Distance(g1, g2 interface{}, unit ...string) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeDistance
 	for _, arg := range []interface{}{g1, g2} {
@@ -98,8 +102,9 @@ func ST_Distance(g1, g2 interface{}, unit ...string) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // ST_Equals :
+//
+//golint:ignore
 func ST_Equals(g1, g2 interface{}) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeEquals
 	for _, arg := range []interface{}{g1, g2} {
@@ -120,8 +125,9 @@ func ST_Equals(g1, g2 interface{}) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // ST_Intersects :
+//
+//golint:ignore
 func ST_Intersects(g1, g2 interface{}) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeIntersects
 	for _, arg := range []interface{}{g1, g2} {
@@ -142,8 +148,9 @@ func ST_Intersects(g1, g2 interface{}) (f spatial.Func) {
 	return
 }
 
-//golint:ignore
 // ST_Within :
+//
+//golint:ignore
 func ST_Within(g1, g2 interface{}) (f spatial.Func) {
 	f.Type = spatial.SpatialTypeWithin
 	for _, arg := range []interface{}{g1, g2} {

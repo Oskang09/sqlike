@@ -1,8 +1,8 @@
 package mysql
 
 import (
-	"github.com/RevenueMonster/sqlike/sql"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sql"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
 )
 
 // Replace :

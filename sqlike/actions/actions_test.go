@@ -3,7 +3,7 @@ package actions
 import (
 	"testing"
 
-	"github.com/RevenueMonster/sqlike/sql/expr"
+	"github.com/Oskang09/sqlike/sql/expr"
 	"github.com/stretchr/testify/require"
 )
 

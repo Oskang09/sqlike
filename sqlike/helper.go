@@ -1,9 +1,9 @@
 package sqlike
 
 import (
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/sql/util"
-	"github.com/RevenueMonster/sqlike/sqlike/logs"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/sql/util"
+	"github.com/Oskang09/sqlike/sqlike/logs"
 )
 
 func getLogger(logger logs.Logger, debug bool) logs.Logger {

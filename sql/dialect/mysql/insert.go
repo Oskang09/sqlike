@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/spatial"
-	"github.com/RevenueMonster/sqlike/sql/codec"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	"github.com/RevenueMonster/sqlike/sqlike/options"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/spatial"
+	"github.com/Oskang09/sqlike/sql/codec"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	"github.com/Oskang09/sqlike/sqlike/options"
 )
 
 // InsertInto :

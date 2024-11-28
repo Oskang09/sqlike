@@ -6,14 +6,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/RevenueMonster/sqlike/reflext"
-	"github.com/RevenueMonster/sqlike/spatial"
-	"github.com/RevenueMonster/sqlike/sql"
-	"github.com/RevenueMonster/sqlike/sql/codec"
-	sqlstmt "github.com/RevenueMonster/sqlike/sql/stmt"
-	sqlutil "github.com/RevenueMonster/sqlike/sql/util"
-	"github.com/RevenueMonster/sqlike/sqlike/actions"
-	"github.com/RevenueMonster/sqlike/sqlike/primitive"
+	"github.com/Oskang09/sqlike/reflext"
+	"github.com/Oskang09/sqlike/spatial"
+	"github.com/Oskang09/sqlike/sql"
+	"github.com/Oskang09/sqlike/sql/codec"
+	sqlstmt "github.com/Oskang09/sqlike/sql/stmt"
+	sqlutil "github.com/Oskang09/sqlike/sql/util"
+	"github.com/Oskang09/sqlike/sqlike/actions"
+	"github.com/Oskang09/sqlike/sqlike/primitive"
 )
 
 var operatorMap = map[primitive.Operator]string{
