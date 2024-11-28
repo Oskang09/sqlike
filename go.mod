@@ -1,4 +1,4 @@
-module github.com/RevenueMonster/sqlike
+module github.com/Oskang09/sqlike
 
 go 1.17
 
